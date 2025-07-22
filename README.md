@@ -24,5 +24,5 @@ Get the latest release:
 3. Play! Volley automatically lowers music during loud game moments  
 
 <div align="center">
-  <img src="Screenshot.png" alt="Volley Screenshot" width="600" />
+  <img src="Screenshot.png" alt="Volley Screenshot" width="400" />
 </div>
