@@ -5,6 +5,10 @@
 ## 🎯 Features
 - **Automatic volume balancing** between music and games
 - **Customizable thresholds**: Set sensitivity for ducking
+- **Customizable Ducking Volume**: Set volume of music after ducking
+- **Customizable Max Music Volume**: Set maximum volume of the music
+- **Customizable Response Time**: Set how long does it take to lower the music volume
+- **Customizable Recovery Time**: Set how long does it take to bring the music volume back to maximum
 
 ## 📥 Download
 Get the latest release:  
@@ -16,7 +20,7 @@ Get the latest release:
 
 ## 🛠️ How It Works
 1. **Select audio sources** (music app + game)  
-2. Set your preferred **ducking intensity**  
+2. Set your preferred **ducking volume and settings**  
 3. Play! Volley automatically lowers music during loud game moments  
 
 ![Screenshot](screenshot.png)
