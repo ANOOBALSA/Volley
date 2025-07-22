@@ -1,6 +1,9 @@
 # Volley - Auto Volume Mixer
 
 *Dynamically adjusts music volume when game sounds get louder*
+<div align="center">
+  <img src="Screenshot.png" alt="Volley Screenshot" width="400" />
+</div>
 
 ## 🎯 Features
 - **Automatic volume balancing** between music and games  
@@ -23,6 +26,3 @@ Get the latest release:
 2. Set your preferred **ducking volume and settings**  
 3. Play! Volley automatically lowers music during loud game moments  
 
-<div align="center">
-  <img src="Screenshot.png" alt="Volley Screenshot" width="400" />
-</div>
