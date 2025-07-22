@@ -23,4 +23,4 @@ Get the latest release:
 2. Set your preferred **ducking volume and settings**  
 3. Play! Volley automatically lowers music during loud game moments  
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot.png)
