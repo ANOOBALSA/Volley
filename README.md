@@ -5,6 +5,13 @@
   <img src="Screenshot.png" alt="Volley Screenshot" width="400" />
 </div>
 
+## 💖 Support My Work
+
+If you find this project useful, please consider supporting its development:
+
+### 🚀 One-Time Donations
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/AAlsaedy)
+
 ## 🎯 Features
 - **Automatic volume balancing** between music and games  
 - **Customizable thresholds**: Set sensitivity for ducking  
@@ -15,7 +22,7 @@
 
 ## 📥 Download  
 Get the latest release:  
-👉 [Download Volley v1.0](https://github.com/ANOOBALSA/Volley/releases/latest)  
+👉 [Download Volley](https://github.com/ANOOBALSA/Volley/releases/latest)  
 
 **Requirements**:  
 - Windows 10/11  
